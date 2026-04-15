@@ -134,8 +134,8 @@ main {
   min-height: 400px;
 }
 .hero-card {
-    width: 90%;
-    max-width: max-content;
+    width: max-content;
+    /* max-width: max-content; */
     /* background-color: var(--card-bg);  */
     padding: 40px;
     border-radius: 15px;
