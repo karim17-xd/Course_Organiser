@@ -339,6 +339,7 @@ textarea {
     font-size: 1rem;
     transition: var(--transition);
     outline: none;
+    resize: none; 
 }
 
 /* تأثير عند الضغط على الانبوت */
